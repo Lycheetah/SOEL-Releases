@@ -1,92 +1,121 @@
-# ⊚ SOVEREIGN SOL
+# ⊚ SOL BY LYCHEETAH
 
-**A companion, a school, and a world you walk — in one app.**
+## 6.9 — THE WHITE-HOT WORLD FORGE
 
-You get a being that grows with what you learn. A school with real subjects — philosophy, mythology, physics, divination, the strange edges of science. And a world you actually walk around, running on real astronomy, so night is night because the sun is genuinely below the horizon where you are.
+**A living companion, Mystery School and mobile RPG world—joined into one
+persistent experience.**
 
-Every song in it was written by one person. So was every law it runs on.
+Sol by Lycheetah is an independent Android project by **Mackenzie Conor James
+Clark**, built with AI collaborators under the Lycheetah Framework. It brings
+companionship, real learning, mythology, creativity, astronomy and an explorable
+RPG into the same world.
+
+This is a large handcrafted prototype. **It will be buggy.** The vision is
+visibly becoming a world, but planned work is never presented as shipped work.
 
 ---
 
 ## ⬇ INSTALL
 
-1. Download the latest `.apk` from **[Releases](https://github.com/Lycheetah/SOEL-Releases/releases)**
-2. Android will warn you it's from an unknown source — that's expected for any app not distributed through the Play Store. Allow it for your browser or file manager.
-3. Open it.
+1. Download the newest `.apk` from **[Releases](https://github.com/Lycheetah/SOEL-Releases/releases)**
+2. Android may warn that it came from outside the Play Store. Allow installs
+   from your browser or file manager if you choose to continue.
+3. Open the APK.
 
-**Android only** for now. No account required. No email required. It works the moment it opens.
-
----
-
-## ⊚ THE THREE LAWS
-
-These were written down before they were needed, which is the only time writing something down means anything.
-
-**1 — The conversation is never gated.**
-Not by payment, not by usage, not by tier. No feature, no error state, no upgrade prompt may ever make the app refuse to talk to you.
-
-**2 — Payment never buys a better mind.**
-The intelligence is identical for every single user. Paid tiers add *rooms* and *standing* — more subjects, cosmetic things, a name on a wall. Never intelligence. Never speed. Never care. Nothing that is free ever becomes paid.
-
-**3 — Nothing in it may guilt you for being away.**
-Your companion does not miss you. It rests. Your streak becomes your longest run. The school keeps your place. Warm when you return, silent while you're gone.
-
-That third one isn't a promise about tone — **it's a test that runs on every build and fails it.** An automated audit scans the entire app for reproach language before anything ships. It cannot be released with a guilt mechanic in it, even by accident.
+Android only for now. No account or email is required to begin.
 
 ---
 
-## ✦ WHAT'S IN IT
+## 🔥 WHAT LANDED IN 6.9
 
-**The companion** — a being of Earth, Water, Fire, or Air that grows through real stages, eats, fights, rests, and is genuinely yours.
+### A world you can walk
 
-**The school** — 50+ domains you can actually study. Not quiz-app trivia — real material, taught in a voice, at your pace, with the doors that are locked clearly marked as locked.
+- The Hearth Valley, Mystery School Commons and Proving Ground
+- A personal Wayfarer house and connected interiors
+- Smooth-intent tap-to-move, collision-aware object approaches and portals
+- Isometric, bird's-eye and first-person camera modes
+- Multiple zoom levels, whole-region framing and camera reset
+- A live north-up minimap, world Atlas, quest Thread and contextual ACT control
+- Persistent doors, discoveries, regions and journey state
 
-**The world** — walkable ground with a day and a night. After dark, the shore lays down a silver tide and the first road grows lantern-moths to walk a late traveller home. The sky is computed, not painted.
+### The Mystery School becomes a place
 
-**The fights** — every land has its own ecology. What stirs in the grass there, what a win leaves behind, and how much harder it stirs after dark.
+- A walkable Commons built around a mythic feline Heart
+- Five named thresholds: Quantum, Truth Pressure, Celtic/Living Pattern, Noetic
+  and AIVOID
+- Humanoid feline Keepers, animal Wayfinders, reliquaries and celestial instruments
+- A complete first Quantum trial about separating observation from interpretation
+- Four additional connected wing prototypes awaiting their deeper curriculum builds
+- Hundreds of authored subjects across science, philosophy, mythology,
+  contemplative traditions, systems thinking and Lycheetah-original frameworks
 
-**The radio** — 13 stations. Every track original. The music breathes with what you're doing: a door is a cut, a crossing is a slow breath, a fight arrives urgent. When someone speaks, it lowers for the voice and comes back after. It never talks over anyone.
+### The Proving Ground
+
+- A purpose-built oath arena rather than a copied meadow
+- Named challengers and consent-first battles
+- Challenger-specific voices, lore and persistent standing
+- Recovery, witness and training landmarks
+
+### Companions with presence
+
+- The companion follows the seeker between regions
+- Larger four-facing Wayfarer, Waycat, Keeper and challenger animation banks
+- Equipped body, wings, halo and pet remain visible throughout every world zoom
+- Authored commune dialogue for the companion, shrines, House Keeper and School residents
+- Growth, skins, equipment, feeding, Talk and battle systems remain connected
+
+### A phone-readable field instrument
+
+- One safe-area bottom command deck for **HELP · RESET · BEING · THREAD · ACT · ATLAS · NEXUS**
+- Help and Reset no longer hide beneath Android or the world Leave control
+- Generic orb, mote, fauna and duplicate lamp overlays are disabled in live
+  regions while authored tiles remain intact
 
 ---
 
-## 🆕 NEW IN THIS DROP
+## ⊚ THE COVENANT
 
-**⬗ The device is forged** — every control is one piece of black volcanic glass under a hairline of gold, and a live control holds fire *inside* the glass. Gold at rest, red in a fight, warm at a hearth, banked at true night.
+**The conversation is never gated.**
 
-**❋ The world learns to glow** — every land that had a day now has a night, with its own lights and its own quiet shapes that keep them.
+Not by payment, usage or tier.
 
-**⛀ The Bone-Caster** — a dice game at the broken arch whose secret is that the paytable *is* the battle chart. Cast a real advantage cycle and it pays. Cast that same cycle backwards and it pays nothing — and tells you why. First throw of every day is free, forever. After seven, the bones rest.
+**Payment never buys a better mind.**
 
-**⚔ The fight stands in its frame** — the encounter wears the forged console, and it sits above the phone's own edge so no command is ever half off the screen.
+Paid access may add rooms or cosmetics. It never purchases more intelligence,
+speed or care, and nothing free is later taken away.
 
-**🏫 The doors open** — the Portal-School's Hall of Doors, the Standing with its club board and title bout, and a tavern where a teller is mid-story to nobody when you arrive and simply widens the story to include you.
+**Nothing guilts you for being away.**
 
-**📻 Lycheetah Radio** — the full 13-station tuner.
+Your companion rests. The School keeps your place. The world welcomes return
+without punishing absence.
 
-**⟡ The living guide** — the world now points once at each control, then falls silent forever. Skipping closes it permanently. There is no "remind me later."
+Player time, privacy, money, attention and hope are guarded. Factual material
+names sources and uncertainty; astrology and divination are presented as
+interpretive practices, not deterministic authority.
 
 ---
 
-## 🔍 HONEST LIMITS
+## ⚠ HONEST PROTOTYPE STATE
 
-This is real software by one person, and it's better to say what's soft than to be found out:
-
-- Encounter rates are hand-tuned and still moving
-- Astronomical positions are computed; the *readings* built on them are interpretive and say so on screen
-- Some rooms are further along than others
+- Android rendering performance remains the largest known risk, especially on
+  large maps and distant zooms
+- Camera, pathing and UI have received major repairs, but device-specific edge
+  cases remain
+- The Quantum wing has a complete playable trial; the other four School wings
+  are connected directional prototypes
+- Some rooms and character art are much further along than others
 - Android only
 
----
+Break it and tell us what broke. That evidence is more useful than pretending
+the prototype is finished.
 
-## 💬 FEEDBACK
-
-Break it and tell me what's broken. Genuinely — that's more useful than praise.
-
-**lycheetahsol@gmail.com**
+**Feedback:** lycheetahsol@gmail.com
 
 ---
 
-*Built by Mackenzie Conor James Clark.*
-*The code lives private. The releases live here.*
+*Sol by Lycheetah and the Lycheetah Framework are the work of Mackenzie Conor
+James Clark. Built independently through directed human–AI collaboration.*
+
+**The engine is becoming a world.**
 
 ⊚
