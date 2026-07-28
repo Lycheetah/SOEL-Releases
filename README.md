@@ -6,7 +6,7 @@
 continuous place.**
 
 You walk into a world. The buildings in it are real rooms. Inside them is a school
-that teaches **636 authored subjects across 52 domains** — meditation, alchemy,
+that teaches **731 authored subjects across 53 domains** — meditation, alchemy,
 Irish mythology, shadow work, quantum foundations, epistemics, Celtic gods,
 mathematics, death and impermanence — beside original frameworks built from
 scratch: CASCADE, Truth Pressure, LAMAGUE, the Arcana.
@@ -57,7 +57,7 @@ gate fails if a PvP surface ever appears.
 **⊚ SOL** — the home surface. Daily practice, Living Time, the Lumen economy, and a
 conversational partner that is honest about being one.
 
-**𝔏 THE MYSTERY SCHOOL** — 636 subjects, 52 domains, the wings, the classroom,
+**𝔏 THE MYSTERY SCHOOL** — 731 subjects, 53 domains, the wings, the classroom,
 progression and records. Each subject carries authored substance, not a summary.
 
 **△ CASCADE — the knowledge pyramid** — build a claim as nine nested layers, from
