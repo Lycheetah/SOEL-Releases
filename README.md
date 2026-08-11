@@ -1,172 +1,159 @@
-# ⊚ SOL BY LYCHEETAH
+# ⊚ SOVEREIGN SOL
 
-### The Augmented Artificial Intelligence Mystery School
+### A personal observatory, Mystery School, AI room, companion and private Sanctum
 
-**A mystery school, a living companion, and a 3D world — one Android app, one
-continuous place.**
+**Sovereign Sol 9.0 — The Five Rooms Open** is an independent Android application
+created by **Mackenzie Conor James Clark** through the Lycheetah Framework.
 
-You walk into a world. The buildings in it are real rooms. Inside them is a school
-that teaches **731 authored subjects across 53 domains** — meditation, alchemy,
-Irish mythology, shadow work, quantum foundations, epistemics, Celtic gods,
-mathematics, death and impermanence — beside original frameworks built from
-scratch: CASCADE, Truth Pressure, LAMAGUE, the Arcana.
+It brings five substantial spaces into one app:
 
-Nothing here is a content feed and nothing is scraped. **Every subject was written.**
+- **Stars** — a personal sky, real natal calculations, Tarot and reflective tools;
+- **School** — 700+ authored subjects across 50+ domains, daily lessons and durable study;
+- **Sol AI** — a conversation-first room with inspectable context and saved rooms;
+- **Companion** — talk, care, play, Quick Ventures and persistent story campaigns;
+- **Sanctum** — private writing, check-ins, memories and deliberately chosen keepsakes.
 
-Built by **Mackenzie Conor James Clark** (Lycheetah), independently, in the open,
-with AI collaborators under the Lycheetah Framework.
+Version 9.0 is the release where those rooms learned to introduce themselves.
+Important tools are brought forward, repeated navigation is removed, and deeper
+systems remain available through progressive disclosure instead of long stacked pages.
 
-**[⬇ Download the latest APK](https://github.com/Lycheetah/SOEL-Releases/releases/latest)** · **[The Door](https://lycheetah.github.io/lycheetah-io/)** · Android only
+**[⬇ Download the latest APK](https://github.com/Lycheetah/SOEL-Releases/releases/latest)** · **[Read the 9.0 notes](RELEASE_NOTES_9.0.0.md)** · Android only
 
 ---
 
 ## ⬇ INSTALL
 
-1. Download the newest `.apk` from **[Releases](https://github.com/Lycheetah/SOEL-Releases/releases)**.
-2. Android will warn that it came from outside the Play Store. Allow installs from
-   your browser or file manager if you choose to continue.
-3. Open the APK.
+1. Download the newest `.apk` from [GitHub Releases](https://github.com/Lycheetah/SOEL-Releases/releases).
+2. Android may ask you to allow installation from your browser or file manager.
+3. Open the APK and choose whether to begin fresh or continue your existing local data.
 
-**No account, no email, no sign-up.** Add your own AI key in Settings if you want
-the conversational surfaces — a free one works fine.
+The application does not require an account, email address or subscription.
 
----
-
-## ⟁ THE WORLD
-
-A real-time **three.js** world running natively on the phone — not a video, not a
-menu with a background. An authored 96×96 land where one cell truth owns ground,
-elevation, mass, collision and pathfinding at once, so what you see and what you
-can walk on can never disagree.
-
-- **THE VANTAGE** — the hub. Cheetah-gothic: long and lean, never squat, cut
-  through with the tear-line — the black mark running from a cheetah's eye to its
-  jaw, carried down every tower.
-- **THE PROVING GROUND** — an oath arena, built as itself rather than a copied
-  meadow. *Labelled PROTOTYPE on screen.*
-- **THE WILDVERGE** — the walkable ground *is* a cheetah's print. Nothing tells you
-  this. You climb it, and you turn around. *Labelled PROTOTYPE on screen.*
-
-Real astronomy drives the sky. There is **no PvP and none is planned** — a build
-gate fails if a PvP surface ever appears.
+Hosted DeepSeek text is available by default on a fresh install. The shared provider
+credential is held on the server and is not embedded in the APK. Optional personal
+provider keys can be entered after installation and remain in app storage. Image
+analysis is separate and requires the user's chosen vision provider.
 
 ---
 
-## 𝔏 WHAT IS INSIDE
+## ✦ THE FIVE ROOMS
 
-**⊚ SOL** — the home surface. Daily practice, Living Time, the Lumen economy, and a
-conversational partner that is honest about being one.
+### STARS — one living observatory
 
-**𝔏 THE MYSTERY SCHOOL** — 731 subjects, 53 domains, the wings, the classroom,
-progression and records. Each subject carries authored substance, not a summary.
-
-**△ CASCADE — the knowledge pyramid** — build a claim as nine nested layers, from
-the irreducible AXIOM at its core out to the FRONTIER it cannot yet account for.
-The engine measures **Truth Pressure, Π = (E·P)/(S + S₀)**: evidence × explanatory
-power, over the strain in what supports the claim, plus a floor. Run on beliefs you
-actually hold — never on toy examples.
-
-**✦ THE COMPANION** — identity, care, equipment, battle, learning, growth, skins,
-feeding, and an art pipeline of its own. It follows you between regions.
-
-**☽ THE ZODIAC** — a real observatory. Genuine natal computation, with the rising
-sign bound to actual birthplace rather than approximated.
-
-**⟟ THE CODEX** — the Arcana deck, the mythos, the first secret.
-
-**◈ LAMAGUE** — an original compression language, with its own registry, vectors
-and translation engine.
-
-**◉ THE SANCTUM · 📚 THE LIBRARY · ◌ THE WORKSHOP** — text scored against the
-CASCADE layers, source-keeping, customization.
-
-Plus the divination engine, SAIAN, the caretakers, the audio jukebox and the solar
-clock.
-
----
-
-## ⊚ THE COVENANT
-
-**The conversation is never gated.** Not by payment, usage or tier.
-
-**Payment never buys a better mind.** Paid access may add rooms or cosmetics. It
-never purchases more intelligence, speed or care, and nothing free is later taken
-away.
-
-**Nothing guilts you for being away.** Your companion rests. The School keeps your
-place. The world welcomes return without punishing absence.
-
-Player time, privacy, money, attention and hope are guarded. Factual material names
-its sources and its uncertainty; astrology and divination are presented as
+Stars opens with a compact personal-sky line and a deliberate daily reading. Zodiac,
+Tarot and deeper practitioner instruments remain distinct without feeling like several
+applications stacked into one tab. Astrology and divination are presented as
 interpretive practices, not deterministic authority.
 
+### SCHOOL — a place to enter
+
+The Mystery School opens on Explore: eight wings, more than fifty domains and over
+seven hundred authored subjects. Today offers a focused daily lesson. My Study keeps
+Grimoire pages, Ceremony, Shadow work, Dive history, Quests and earned Folio pages.
+Full Class lessons use a five-phase Living Classroom with a Magister and AI classmates.
+
+The School includes established traditions, academic material and original Lycheetah
+frameworks. Those categories do not borrow certainty from one another. Sources,
+interpretation and uncertainty remain part of the work.
+
+### SOL AI — conversation first
+
+Sol leads with the conversation rather than a dashboard. Nothing sends until the
+person chooses to send it. Rooms, method, optional context, request receipts and deeper
+tools remain inspectable without competing with the act of talking.
+
+### COMPANION — care, play and adventure
+
+Talk, Care, Play and Adventure form the front door. Quick Venture offers a compact
+three-scene journey shaped by choices, risk and knowledge. Campaign offers persistent
+tabletop-style stories with three save slots and 10, 20 or 30 chapter lengths. Forms,
+Memories, Encounters, Learning, Character, Atlas and Gear remain available without
+making the unfinished game renderer the centre of the relationship.
+
+### SANCTUM — private practice without false authority
+
+Today keeps one local intention or reflection. Check In uses three self-reported
+questions and explicitly refuses diagnosis, personality scoring or claims to know the
+person better than they know themselves. Remember holds the local activity record;
+Keepsakes contains only deliberately chosen lines; Scroll remains the long-form room.
+AI reflection is a separate action with bounded context named on screen.
+
 ---
 
-## ⚠ WHAT IS NOT DONE — stated plainly
+## ◈ HOSTED AI AND PRIVACY
 
-This is a large handcrafted prototype and **it will be buggy.** Planned work is
-never presented here as shipped work. As of 7.0.0:
+The no-setup hosted text route serves Sol, School, Zodiac and Tarot, Companion stories,
+Sanctum, CASCADE, Codex, LAMAGUE and Living Classrooms. A new user does not need to
+purchase or configure an AI key before trying the application.
 
-- **The Proving Ground's three passes and two mini-games do not run.** They are
-  declared anchors and rules — walk to the mark and nothing comes through the gates.
-- **Both new zones say PROTOTYPE on screen**, every time you stand in them.
-- **Eight of the ten Vantage thresholds still open app screens rather than rooms.**
-  Two of ten became real places in 7.0.0.
-- The Cathedral interior, the Companion fold-in and the encounter runtime are ahead.
-- Multiplayer is a long way off. Shipping a button for it would be a lie.
-- Android rendering performance is the largest known risk, especially at distant
-  zooms. Device-specific edge cases remain.
-- Some rooms and some character art are much further along than others.
+- No account or email is required.
+- Local writing and progress stay on the device unless a person deliberately invokes
+  a named hosted action.
+- The shared provider secret stays server-side and is not distributed in the APK.
+- Optional personal keys remain on the device.
+- The app does not claim that AI output is professional, medical or scientific advice.
 
-Break it and tell us what broke. **That evidence is more useful than pretending the
-prototype is finished.**
+---
+
+## ⟁ THE DEVELOPING CREATURE WORLD
+
+Sovereign Sol contains an original deterministic 2.5D creature-RPG foundation with
+movement, saves, encounters, battle, items, companions, knowledge, travel and authored
+content. Five live districts form its current world:
+
+1. Shattered Approach
+2. Arrival Meadow
+3. Lantern Commons
+4. Veiled Fields
+5. Lantern Village
+
+Its central grammar is that seeing something is not the same as understanding it.
+Learning can change what the same mark or being truthfully reveals without becoming a
+payment gate or movement lock.
+
+**The game is a development preview, not a finished standalone RPG.** Its menu remains
+too deeply buried, the complete five-district loop needs broader physical playtesting,
+and feel, pacing and ordinary-device performance remain active work. The preview ships
+as evidence of a real engine and direction—not as a claim that the game is complete.
+
+The dev-only Area Studio can author and validate regions through the same production
+compiler and runtime. It does not ship as a player feature in the APK.
+
+---
+
+## ⚠ HONEST LIMITS
+
+Sovereign Sol is a large independent release and will contain defects. Current known
+work includes:
+
+- making the developing world easier to discover and navigate;
+- full physical playtesting across all five live districts;
+- bringing Area Studio composition closer to exact runtime WYSIWYG;
+- extracting and rebuilding LAMAGUE as a focused product;
+- testing onboarding and core rooms with people who did not build them;
+- separating validated software, provisional research, philosophy and speculative art
+  throughout the wider Lycheetah archive.
+
+Break it and report what broke. External evidence is more valuable than pretending an
+unfinished edge is complete.
 
 **Feedback:** lycheetahsol@gmail.com
 
 ---
 
-## 🔥 7.0.0 — THE WORLD BECOMES A PLACE
+## ⚖ BUILD AND AUTHORSHIP
 
-Not a feature drop. **The engine was replaced.**
+Sovereign Sol is built with Expo, React Native, React and Skia, with each third-party
+component under its own licence. The app source remains private; release APKs and public
+notes live in this repository.
 
-| | |
-|---|---|
-| files changed | **198** |
-| lines removed | **68,672** |
-| the old 2.5D runtime | **180 files deleted outright** |
-| the new 3D world | **~14,400 lines** |
+The application, Lycheetah Framework, creature-world knowledge grammar, Earned Light
+framing and visual direction are the work of **Mackenzie Conor James Clark**, developed
+through directed human–AI collaboration. Repository tests are evidence that named
+contracts execute; they are not independent scientific validation, peer review or proof
+of external adoption.
 
-The pixel runtime was removed, not switched off behind a flag. The Lycheetah look
-survives as a deliberate palette-and-dither pass over real 3D geometry rather than
-as sprites.
-
-Release gates, all measured: **18/18** Vantage · **15/15** Proving Ground and zone
-seam · **52/52** Wildverge · **42/42** Vantage prop kit.
-
-Everything outside the world — School, Companion, Cascade, Zodiac, Codex, Sanctum,
-Library — is unchanged and still there.
-
----
-
-## ⚖ HOW THIS IS BUILT
-
-Claims in this project carry their register. **MEASURED** means observed and
-reproducible. **PROTOTYPE** means incomplete, and says so on the screen you are
-standing on. The research corpus keeps a falsification register and marks its own
-aspirational claims as aspirational. When a defect is found in the framework it is
-named publicly and repaired rather than buried — the school teaches that as a
-subject of its own.
-
-The app's source is private. **The research is open, free, and stays that way.**
-
----
-
-*Sol by Lycheetah and the Lycheetah Framework — the cat god, the Earned Light, the
-tear-line, THE RUNNING CAT, the cheetah-gothic grammar and the world's direction —
-are the work of Mackenzie Conor James Clark. Built independently through directed
-human–AI collaboration.*
-
-**The engine is becoming a world.**
+**Preserve the possibility. Earn the reality.**
 
 **[The Door](https://lycheetah.github.io/lycheetah-io/)** · [@SOELAAIMS](https://x.com/SOELAAIMS) · [@OuraVelith](https://x.com/OuraVelith) · [@lycheetahcat](https://x.com/lycheetahcat)
 
