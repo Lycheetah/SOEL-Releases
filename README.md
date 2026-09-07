@@ -2,7 +2,7 @@
 
 ### A personal observatory, Mystery School, AI room, companion and private Sanctum
 
-**Sovereign Sol 9.0 — The Five Rooms Open** is an independent Android application
+**Sovereign Sol 9.0.1 — The Free Lane Holds** is an independent Android application
 created by **Mackenzie Conor James Clark** through the Lycheetah Framework.
 
 It brings five substantial spaces into one app:
@@ -10,14 +10,15 @@ It brings five substantial spaces into one app:
 - **Stars** — a personal sky, real natal calculations, Tarot and reflective tools;
 - **School** — 700+ authored subjects across 50+ domains, daily lessons and durable study;
 - **Sol AI** — a conversation-first room with inspectable context and saved rooms;
-- **Companion** — talk, care, play, Quick Ventures and persistent story campaigns;
+- **Companion** — talk, care and a smaller Hearth experience;
 - **Sanctum** — private writing, check-ins, memories and deliberately chosen keepsakes.
 
-Version 9.0 is the release where those rooms learned to introduce themselves.
-Important tools are brought forward, repeated navigation is removed, and deeper
-systems remain available through progressive disclosure instead of long stacked pages.
+Version 9.0.1 is a focused reliability release. Hosted conversation works without a
+personal API key, six free model choices remain available, and stale local quota data
+can no longer permanently block the shared route. It does not claim a new Adventure
+mode; Companion needs a separate product pass before that promise returns.
 
-**[⬇ Download the latest APK](https://github.com/Lycheetah/SOEL-Releases/releases/latest)** · **[Read the 9.0 notes](RELEASE_NOTES_9.0.0.md)** · Android only
+**[⬇ Download the latest APK](https://github.com/Lycheetah/SOEL-Releases/releases/latest)** · **[Read the 9.0.1 notes](RELEASE_NOTES_9.0.1.md)** · Android only
 
 ---
 
@@ -29,10 +30,11 @@ systems remain available through progressive disclosure instead of long stacked 
 
 The application does not require an account, email address or subscription.
 
-Hosted DeepSeek text is available by default on a fresh install. The shared provider
-credential is held on the server and is not embedded in the APK. Optional personal
-provider keys can be entered after installation and remain in app storage. Image
-analysis is separate and requires the user's chosen vision provider.
+Hosted text is available by default on a fresh install through a bounded
+NVIDIA/OpenCode route. Shared provider credentials are held on the server and are not
+embedded in the APK. Optional personal provider keys can be entered after installation
+and remain in app storage. Image analysis is separate and requires the user's chosen
+vision provider.
 
 ---
 
@@ -62,13 +64,12 @@ Sol leads with the conversation rather than a dashboard. Nothing sends until the
 person chooses to send it. Rooms, method, optional context, request receipts and deeper
 tools remain inspectable without competing with the act of talking.
 
-### COMPANION — care, play and adventure
+### COMPANION — a smaller Hearth
 
-Talk, Care, Play and Adventure form the front door. Quick Venture offers a compact
-three-scene journey shaped by choices, risk and knowledge. Campaign offers persistent
-tabletop-style stories with three save slots and 10, 20 or 30 chapter lengths. Forms,
-Memories, Encounters, Learning, Character, Atlas and Gear remain available without
-making the unfinished game renderer the centre of the relationship.
+Companion currently keeps the relationship-facing Hearth experience intentionally
+smaller. This release does not present Quick Venture, Campaign or a larger Adventure
+mode as shipped features. Those ideas remain future product work and will return only
+after a focused build and physical-device witness.
 
 ### SANCTUM — private practice without false authority
 
@@ -97,9 +98,10 @@ purchase or configure an AI key before trying the application.
 
 ## ⟁ THE DEVELOPING CREATURE WORLD
 
-Sovereign Sol contains an original deterministic 2.5D creature-RPG foundation with
-movement, saves, encounters, battle, items, companions, knowledge, travel and authored
-content. Five live districts form its current world:
+An original deterministic 2.5D creature-RPG foundation remains in private development,
+with movement, saves, encounters, battle, items, companions, knowledge, travel and
+authored content. It is not presented as a release feature in Sovereign Sol 9.0.1.
+The current development districts are:
 
 1. Shattered Approach
 2. Arrival Meadow
@@ -111,10 +113,9 @@ Its central grammar is that seeing something is not the same as understanding it
 Learning can change what the same mark or being truthfully reveals without becoming a
 payment gate or movement lock.
 
-**The game is a development preview, not a finished standalone RPG.** Its menu remains
-too deeply buried, the complete five-district loop needs broader physical playtesting,
-and feel, pacing and ordinary-device performance remain active work. The preview ships
-as evidence of a real engine and direction—not as a claim that the game is complete.
+**The game is development work, not a finished standalone RPG and not a 9.0.1 release
+claim.** The complete loop needs broader physical playtesting, and feel, pacing and
+ordinary-device performance remain active work.
 
 The dev-only Area Studio can author and validate regions through the same production
 compiler and runtime. It does not ship as a player feature in the APK.
@@ -126,7 +127,8 @@ compiler and runtime. It does not ship as a player feature in the APK.
 Sovereign Sol is a large independent release and will contain defects. Current known
 work includes:
 
-- making the developing world easier to discover and navigate;
+- rebuilding Companion Adventure as a focused, physically tested product pass;
+- deciding when the developing world is ready to become a discoverable player feature;
 - full physical playtesting across all five live districts;
 - bringing Area Studio composition closer to exact runtime WYSIWYG;
 - extracting and rebuilding LAMAGUE as a focused product;
