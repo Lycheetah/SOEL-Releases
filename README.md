@@ -10,15 +10,20 @@ It brings five substantial spaces into one app:
 - **Stars** — a personal sky, real natal calculations, Tarot and reflective tools;
 - **School** — 700+ authored subjects across 50+ domains, daily lessons and durable study;
 - **Sol AI** — a conversation-first room with inspectable context and saved rooms;
-- **Companion** — talk, care and a smaller Hearth experience;
+- **Companion** — offline Talk, care and replayable Pocket Atlas outings;
 - **Sanctum** — private writing, check-ins, memories and deliberately chosen keepsakes.
 
-Version 9.0.1 is a focused reliability release. Hosted conversation works without a
-personal API key, six free model choices remain available, and stale local quota data
-can no longer permanently block the shared route. It does not claim a new Adventure
-mode; Companion needs a separate product pass before that promise returns.
+**Version 9.0.1 — The World Opens Again** is an Android preview (build 21, 25 September
+2026). It brings a visual return across the Observatory, Tarot, Academy, Sol,
+Companion and Sanctum; adds clearer paths through the sky and School; and restores
+replayable Companion outings with an offline Talk path. Hosted model receipts identify
+the seat that actually answered, while provider credentials stay server-side.
 
-**[⬇ Download the latest APK](https://github.com/Lycheetah/SOEL-Releases/releases/latest)** · **[Read the 9.0.1 notes](RELEASE_NOTES_9.0.1.md)** · Android only
+Research tools are labelled experimental. More instrument interiors are still coming,
+and a full physical-device walkthrough remains outstanding. This is a preview APK,
+not a Google Play release. App source remains private.
+
+**[⬇ Download the latest APK](https://github.com/Lycheetah/SOEL-Releases/releases/latest)** · **[Read the release notes](https://github.com/Lycheetah/SOEL-Releases/releases/tag/SOLV9.0.1)** · Android only
 
 ---
 
@@ -64,12 +69,12 @@ Sol leads with the conversation rather than a dashboard. Nothing sends until the
 person chooses to send it. Rooms, method, optional context, request receipts and deeper
 tools remain inspectable without competing with the act of talking.
 
-### COMPANION — a smaller Hearth
+### COMPANION — Hearth and Pocket Atlas
 
-Companion currently keeps the relationship-facing Hearth experience intentionally
-smaller. This release does not present Quick Venture, Campaign or a larger Adventure
-mode as shipped features. Those ideas remain future product work and will return only
-after a focused build and physical-device witness.
+Companion keeps its relationship-facing Hearth and adds lightweight, replayable Pocket
+Atlas outings and peaceful encounters. Talk has an offline response path. This is not a
+complete Adventure campaign or a finished creature-RPG; those larger experiences remain
+in development and need further product work and physical-device testing.
 
 ### SANCTUM — private practice without false authority
 
@@ -127,7 +132,7 @@ compiler and runtime. It does not ship as a player feature in the APK.
 Sovereign Sol is a large independent release and will contain defects. Current known
 work includes:
 
-- rebuilding Companion Adventure as a focused, physically tested product pass;
+- growing Companion outings while testing them on physical devices;
 - deciding when the developing world is ready to become a discoverable player feature;
 - full physical playtesting across all five live districts;
 - bringing Area Studio composition closer to exact runtime WYSIWYG;
