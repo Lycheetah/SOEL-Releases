@@ -1,74 +1,68 @@
-# ⊚ SOVEREIGN SOL
+# ⊚ LYCHEETAH
 
-### Explore the sky. Follow your questions. Make room for wonder.
+### A mystery school you live inside.
 
-Sovereign Sol brings a personal observatory, Tarot, a living Mystery School, AI
-conversation, Companion outings and private reflection together in one atmospheric
-Android app. Start with today's sky, open a lesson, draw a spread, ask Sol a question,
-or find a quiet page in Sanctum.
+Lycheetah brings a living companion, a real night sky, Tarot, a School of more than fifty
+domains and an AI guide named Sol together in one Android app. Start with tonight's sky,
+bring the companion a question, draw a card, or open a subject and follow where it leads.
 
-**[↓ Download the Android preview — build 21](https://github.com/Lycheetah/SOEL-Releases/releases/download/SOLV9.0.1/Sovereign-Sol-9.0.1-build21.apk)** · **[See what's new](https://github.com/Lycheetah/SOEL-Releases/releases/tag/SOLV9.0.1)**
+**[↓ Download Lycheetah 9.1.0 for Android](https://github.com/Lycheetah/SOEL-Releases/releases/download/v9.1.0/Lycheetah-9.1.0.apk)** · **[See what's new](https://github.com/Lycheetah/SOEL-Releases/releases/latest)**
 
-*Android · version 9.0.1 · preview build 21 · 25 September 2026 · APK about 680 MB*
+*Android · version 9.1.0 · free to use · for adults 18 and over · APK about 690 MB, Wi-Fi recommended*
+
+> **Sovereign Sol is becoming Lycheetah.** The 9.1.0 build still shows the old name on your
+> phone; the next update carries the new one. Same app, same companion, and everything you
+> kept stays.
 
 ## Find your first door
 
-### ✦ Stars — read the sky, then follow it deeper
+### ✦ The Presence: your companion's home
 
-Begin with today's sky and follow a guided path through your birth sky, a meeting and
-further exploration. Open Zodiac for plain-language context or step into Tarot for
-spreads, card meanings and readings you can save. These are tools for reflection, not
-fixed predictions.
+Your companion stands on a turning sigil under a sky that follows your hour. It breathes,
+blinks and looks toward your touch. Bring it a question and it keeps that question as a
+star; tap the star later and the School opens a book that actually fits it. Soul forms,
+wings, crowns and places open as you study.
 
-### ◈ School — let one question lead to another
+### ☽ Stars and Tarot: read the sky, then go deeper
 
-Explore **600+ authored subjects across 50+ domains**, gathered into eight wings. Take
-the daily lesson, follow an authored learning journey and return to your study through
-saved notes and progress. The School moves from mathematics and the natural world to
-myth, symbols, inner practice, craft and AI.
+The sky is computed on your phone from where the planets really are. Opening Stars on a
+fresh install sends nothing to anyone; we counted the network requests. Tarot has spreads,
+card meanings and readings you can save, and reversed cards can be turned upright with one
+tap. These are tools for reflection, not fixed predictions.
 
-### ⟡ Sol AI — think out loud, with the controls in view
+### 𝔏 The School: let one question lead to another
 
-Talk with Sol in focused rooms, choose how to approach a question and inspect optional
-context before sending. Hosted text is available without setting up a personal AI key;
-you can see which model seat answered. Hosted conversations need an internet
-connection.
+More than fifty domains, from mathematics and the natural world to myth, symbols, alchemy,
+inner practice, craft and AI. Mathematics now runs as one clear path: meet the idea, see the
+steps, work it with your hands, try it, then say it in your own words.
 
-### ◇ Companion — take a small outing
+### ⊚ Sol: think out loud, with the controls in view
 
-Talk has an offline response path. When you want a change of scene, visit the Pocket
-Atlas for short, replayable outings and peaceful encounters that remember the beings
-you leave in peace.
-
-### ⌂ Sanctum — keep a little space for yourself
-
-Write, check in, keep a memory or save a line you chose. Your local writing and progress
-stay on your device unless you deliberately use a named hosted action. AI reflection is
-an explicit choice, not something that happens to your private pages in the background.
+Talk with Sol, the guide who lives inside the app. Free use is rebuilt so a conversation does
+not end because one service went down, and every reply can show what answered it, where it
+ran and what it could see. Bring your own key in Settings if you prefer.
 
 ## Wonder, with clear boundaries
 
 - No account, email or subscription is needed to begin.
-- No personal AI key is needed for the hosted text route; hosted features require
-  internet and depend on service availability.
-- Local writing and progress remain on-device unless you choose a hosted action.
-- Research tools are marked experimental. Astrology and Tarot are interpretive
-  practices, not deterministic or professional advice.
+- Every question passes a crisis screen first. A person in crisis is held, not recorded:
+  helplines that dial, a breathing room, and nothing stored.
+- Local writing and progress stay on your device unless you choose a named hosted action,
+  and the app tells you before anything goes somewhere new.
+- Astrology and Tarot are interpretive practices, not deterministic or professional advice.
 
-## Install the preview
+## Install
 
-1. Download the [build 21 APK](https://github.com/Lycheetah/SOEL-Releases/releases/download/SOLV9.0.1/Sovereign-Sol-9.0.1-build21.apk) — about 680 MB; Wi-Fi recommended.
-2. If Android asks, allow your browser or file manager to install this APK.
-3. Open Sovereign Sol and choose a room that interests you. You can begin fresh or
-   continue existing local data.
+1. Download the [9.1.0 APK](https://github.com/Lycheetah/SOEL-Releases/releases/download/v9.1.0/Lycheetah-9.1.0.apk) on your Android phone.
+2. If Android asks, allow your browser or file manager to install it.
+3. Open the app. Installing over an earlier build is an update, so what you kept stays.
 
-**Preview note:** this is an Android APK, not a Google Play release. A full
-physical-device walkthrough is still owed, and more instrument interiors are in
-progress. The larger creature-RPG world is development work, not a finished feature in
-this build. Expect rough edges; feedback is welcome at **lycheetahsol@gmail.com**.
+This is an Android APK, not a Google Play release yet. It is an independent, handcrafted
+project and it will have rough edges; the **?** on any screen sends feedback, or write to
+**lycheetahsol@gmail.com**.
 
-Sovereign Sol and the Lycheetah Framework are created by **Mackenzie Conor James
-Clark**.
+Lycheetah and the Lycheetah Framework are created by **Mackenzie Conor James Clark**, built
+with AI collaborators.
 
 **[The Door](https://lycheetah.github.io/lycheetah-io/)** · [@SOELAAIMS](https://x.com/SOELAAIMS) · [@OuraVelith](https://x.com/OuraVelith) · [@lycheetahcat](https://x.com/lycheetahcat)
 
